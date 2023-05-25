@@ -12,16 +12,20 @@ export const Footer = () => {
           alt="social-icon"
           className={styles.icon}
         />
+        <a href="https://www.linkedin.com/in/meganriley1/" rel="noreferrer" target="_blank">
         <img
           src="/assets/socials/linkedin.png"
           alt="social-icon"
           className={styles.icon}
         />
+        </a>
+        <a href="https://www.github.com/meganriley/" rel="noreferrer" target="_blank">
         <img
           src="/assets/socials/github.png"
           alt="social-icon"
           className={styles.icon}
         />
+        </a>
       </div>
     </footer>
   );

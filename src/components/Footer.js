@@ -5,7 +5,6 @@ export const Footer = () => {
     <footer className={styles.wrapper}>
       <h1 className={styles.title}>Megan Riley</h1>
       <p>Chicago, IL USA</p>
-      <p>+012 345 67890 | info@domain.com</p>
       <div className={styles.socials}>
         <img
           src="/assets/socials/twitter.png"

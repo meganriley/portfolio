@@ -7,8 +7,9 @@ export const projects = [
 
     },
     {
-      title: "Weather App",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      image: "/assets/projects/weather-app.png",
+      title: "Reddit Clone",
+      description: "React, Chakra UI, Firebase",
+      hyperlink: "https://main--golden-brigadeiros-0a300d.netlify.app/",
+      image: "/assets/projects/mobile.png",
     },
   ];

@@ -27,7 +27,7 @@ export const HeroArea = () => {
               .scrollIntoView({ behavior: "smooth" });
           }}
         >
-          Hire me
+          Message Me
         </button>
       </div>
     </section>

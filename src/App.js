@@ -20,9 +20,9 @@ export default function App() {
       <p className="description">My experience and education</p>
       <About />
       <h1 id="services" className="title">
-        My services
+        My Skills
       </h1>
-      <p className="description">How can I help you</p>
+      <p className="description">I love learning new things!</p>
       <Services />
       <h1 id="projects" className="title">
         Projects

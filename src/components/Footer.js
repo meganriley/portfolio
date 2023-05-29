@@ -6,11 +6,13 @@ export const Footer = () => {
       <h1 className={styles.title}>Megan Riley</h1>
       <p>Chicago, IL USA</p>
       <div className={styles.socials}>
+        <a href="https://www.goodreads.com/user/show/19129168-megan" rel="noreferrer" target="_blank">
         <img
-          src="/assets/socials/twitter.png"
+          src="/assets/socials/goodreads.svg"
           alt="social-icon"
           className={styles.icon}
         />
+        </a>
         <a href="https://www.linkedin.com/in/meganriley1/" rel="noreferrer" target="_blank">
         <img
           src="/assets/socials/linkedin.png"

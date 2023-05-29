@@ -30,14 +30,14 @@ export default function App() {
       <p className="description">Highlights of my best work</p>
       <Projects />
       <h1 id="activities" className="title">
-        Activities
+        Works in Progress
       </h1>
       <p className="description">My interests and volunteering activities</p>
       <Activities />
       <h1 id="contact" className="title">
         Let's connect
       </h1>
-      <p className="description">I'm available to work!</p>
+      <p className="description">Let's code, collaborate, or get coffee!</p>
       <Contacts />
       <Footer />
     </div>

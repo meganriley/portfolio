@@ -8,13 +8,6 @@ export const Projects = () => {
   return (
     
     <section className={styles.wrapper}>
-      {/* <p>Visit plainenglish.io in a new tab</p>{" "}
-      <button
-        role="link"
-        onClick={() => openInNewTab("https://plainenglish.io")}
-      >
-        Visit
-      </button> */}
       {projects.map((project, index) => {
         return (
           <div className={styles.card} key={index}>
